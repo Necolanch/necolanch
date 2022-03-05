@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=necolanch&show_icons=true&locale=en&layout=compact" alt="necolanch" /></p>
 
-<a href="https://app.daily.dev/Necolanch"><img src="https://github.com/necolanch/necolanch/blob/master/devcard.svg" width="400" alt="Nicholas's Dev Card"/></a>
+<a href="https://app.daily.dev/Necolanch"><img src="https://github.com/necolanch/necolanch/blob/main/devcard.svg" width="400" alt="Nicholas's Dev Card"/></a>
