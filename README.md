@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React and about databases**
 
-- 🤝 I’m looking for help with [scroll behavior on my portfolio](github.com/Necolanch/product-feedback)
-
 - 📫 How to reach me **necolanch@gmail.com**
 
 - ⚡ Fun fact **I've been to 6 mainland European countries**
