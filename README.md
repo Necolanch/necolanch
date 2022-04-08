@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a product feedback application](github.com/Necolanch/product-feedback)
 
-- 🌱 I’m currently learning **React and about databases**
+- 🌱 I’m currently learning **React, databases(MySQL, MongoDB, Neo4J), and Node JS**
 
 - 📫 How to reach me **necolanch@gmail.com**
 
