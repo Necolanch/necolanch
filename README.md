@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/necolanch" target="blank"><img src="https://img.shields.io/twitter/follow/necolanch?logo=twitter&style=for-the-badge" alt="necolanch" /></a> </p>
 
-- 🔭 I’m currently working on [a Splitgate stat tracking application](github.com/Necolanch/SplitgateDataPortal)
+- 🔭 I’m currently working on [a Splitgate stat tracking application](https://github.com/Necolanch/SplitgateDataPortal)
 
 - 🌱 I’m currently learning **TypeScript and Redux**
 
