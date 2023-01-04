@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/necolanch" target="blank"><img src="https://img.shields.io/twitter/follow/necolanch?logo=twitter&style=for-the-badge" alt="necolanch" /></a> </p>
 
-- 🔭 I’m currently working on [a product feedback application](github.com/Necolanch/product-feedback)
+- 🔭 I’m currently working on [a Splitgate stat tracking application](github.com/Necolanch/SplitgateDataPortal)
 
-- 🌱 I’m currently learning **React, databases(MySQL, MongoDB, Neo4J), and Node JS**
+- 🌱 I’m currently learning **TypeScript and Redux**
 
 - 📫 How to reach me **necolanch@gmail.com**
 
