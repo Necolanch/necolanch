@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Splitgate stat tracking application](https://github.com/Necolanch/SplitgateDataPortal)
 
-- 🌱 I’m currently learning **TypeScript and Redux**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 📫 How to reach me **necolanch@gmail.com**
 
