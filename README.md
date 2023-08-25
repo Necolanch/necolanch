@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/necolanch" target="blank"><img src="https://img.shields.io/twitter/follow/necolanch?logo=twitter&style=for-the-badge" alt="necolanch" /></a> </p>
 
-- 🔭 I’m currently working on [a Splitgate stat tracking application](https://github.com/Necolanch/SplitgateDataPortal)
+- 🔭 I’m currently thinking of a new idea to use the tech stack of Next.js, TypeScript, Node.js, Express, and PostgreSQL.
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **necolanch@gmail.com**
 
-- ⚡ Fun fact **I've been to 6 mainland European countries**
+- ⚡ Fun fact **I've been to 6 mainland European countries: Germany, Austria, Slovenia, Croatia, Italy, and France**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
