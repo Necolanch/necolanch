@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicholas Cruz</h1>
 <h3 align="center">An ambitious web & mobile developer from Tennessee</h3>
 
-<p align="left"> <a href="https://twitter.com/necolanch" target="blank"><img src="https://img.shields.io/twitter/follow/necolanch?logo=twitter&style=for-the-badge" alt="necolanch" /></a> </p>
-
 - 🔭 I’m currently containerizing my Exercise Buddy project to learn how to deploy a multi-container app.
 
 - 🌱 I’m currently learning **containerization & orchestration**
