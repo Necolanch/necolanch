@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nicholas Cruz</h1>
-<h3 align="center">An ambitious web & mobile developer from Tennessee</h3>
+<h1 align="center">Nicholas Cruz 🧙</h1>
+<h3 align="center">DevOps/Support Engineer (or Wizard) in Tennessee</h3>
 
-- 🔭 I’m currently working on a collab project to create an app with a microservices architecture using tools like Docker, Kubernetes, various Azure services, and Terraform.
+- 🔭 I’m currently working on a collab project to create an app with a microservices architecture using tools like Docker, Kubernetes, various Azure services, and Terraform. The goal is to gain practical experience with as many tools and methodologies in DevOps Eng responsibilities as I can.
 
 - 🌱 I’m currently learning **containerization & orchestration**
 
@@ -12,9 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/necolanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="necolanch" height="30" width="40" /></a>
-<a href="https://twitter.com/necolanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="necolanch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/necolanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necolanch" height="30" width="40" /></a>
-<a href="https://fb.com/cruzenjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cruzenjr" height="30" width="40" /></a>
 <a href="https://instagram.com/necolanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necolanch" height="30" width="40" /></a>
 <a href="https://www.behance.net/necolanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="necolanch" height="30" width="40" /></a>
 </p>
