@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Cruz</h1>
 <h3 align="center">An ambitious web & mobile developer from Tennessee</h3>
 
-- 🔭 I’m currently containerizing my Exercise Buddy project to learn how to deploy a multi-container app.
+- 🔭 I’m currently working on a collab project to create an app with a microservices architecture using tools like Docker, Kubernetes, various Azure services, and Terraform.
 
 - 🌱 I’m currently learning **containerization & orchestration**
 
