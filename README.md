@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a collab project to create an app with a microservices architecture using tools like Docker, Kubernetes, various Azure services, and Terraform. The goal is to gain practical experience with as many tools and methodologies in DevOps Eng responsibilities as I can.
 
-- 🌱 I’m currently learning **containerization, container orchestration, and conquering Azure certifications**
+- 🌱 I’m currently learning **observability**
 
 - 📫 How to reach me **necolanch@gmail.com**
 
