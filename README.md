@@ -1,5 +1,5 @@
 <h1 align="center">Nicholas Cruz 🧙</h1>
-<h3 align="center">DevOps/Support Engineer (or Wizard) in Tennessee</h3>
+<h3 align="center">DevOps/Platform Engineer (or Wizard) in Tennessee</h3>
 
 - 🔭 I’m currently working on a collab project to create an app with a microservices architecture using tools like Docker, Kubernetes, various Azure services, and Terraform. The goal is to gain practical experience with as many tools and methodologies in DevOps Eng responsibilities as I can.
 
